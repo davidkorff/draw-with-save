@@ -35,7 +35,6 @@ function draw(){
   ctx.lineWidth=5
   ctx.strokeStyle = color
   ctx.stroke()
-  a=ctx.stroke()
   ctx.closePath()
 }
 
